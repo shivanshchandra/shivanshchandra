@@ -2,11 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshsati18" alt="devanshsati" /></a> </p>
 
-- 📫 or drop an email @ **devanshjsati@gmail.com**
-- 
-- 👨‍💻 Reach me at [Devanshsati.com/](https://devanshsati.com/)
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/15h_yNZbzuiuwz8xmB1GYEsVGDWEt3MmL/view?usp=sharing)
+- 📫 or drop an email @ **shivansh.chandra96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
