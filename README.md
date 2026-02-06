@@ -2,16 +2,19 @@
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivansh-chandra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/shivansh-chandra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Shivansh_chandra04/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode"/>
+  <a href="https://leetcode.com/u/Shivansh_chandra04/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:shivansh.chandra96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
+  <a href="mailto:shivansh.chandra96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+
 
 
 ---
