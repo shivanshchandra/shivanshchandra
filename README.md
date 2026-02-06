@@ -89,7 +89,7 @@ I enjoy crafting **scalable full-stack solutions**, working across frontend and 
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🔹 Curiate Solutions — *Software Developer Intern (Remote)*  
 **Nov 2025 – Present**
