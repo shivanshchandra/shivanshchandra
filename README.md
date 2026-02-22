@@ -117,46 +117,71 @@ I enjoy crafting **scalable full-stack solutions**, working across frontend and 
 
 ---
 
-## 🚀 Projects
+🚀 Projects
+💻 CodeSync Live — Real-time Collaborative Code Editor
 
-### 🏡 Wanderlust — *Airbnb Clone*
-**MERN Stack | EJS | Mapbox | Cloudinary**
+MERN Stack | Socket.IO | CodeMirror | JDoodle API
 
-- Full-stack Airbnb-like platform with authentication & bookings
-- Property listings, image uploads, and interactive maps
-- Followed MVC architecture  
+Built a real-time collaborative coding platform where multiple users can join rooms and edit code simultaneously using WebSockets.
+
+Implemented secure JWT-based authentication with protected routes and encrypted password storage using bcrypt.
+
+Integrated JDoodle Compiler API for multi-language code execution and developed a persistent room-based chat stored in MongoDB.
+
+Designed scalable backend architecture (REST + WebSockets) and deployed on Render for public access.
+🔗 https://codesync-live.onrender.com
+
+🏡 Wanderlust — Airbnb Clone
+
+MERN Stack | EJS | Mapbox | Cloudinary
+
+Developed a full-stack property listing and booking platform inspired by Airbnb.
+
+Implemented authentication, CRUD-based listing management, booking system, and cloud-based image uploads.
+
+Integrated Mapbox for location visualization and structured the project using MVC architecture.
+
+Deployed on Render ensuring responsive design and stable hosting.
 🔗 https://airbnb-wanderlust-2r91.onrender.com
 
----
+💼 LinkedIn Clone — Professional Networking Platform
 
-### 💼 LinkedIn Clone — *Professional Networking Platform*
-**MERN + Next.js**
+MERN + Next.js
 
-- User profiles, connections, posts, and image uploads
-- Backend with Node.js, Express, MongoDB
-- Responsive and scalable UI  
+Built a professional networking platform supporting profile creation, connections, and content sharing.
+
+Developed dynamic frontend using Next.js with features like connection requests, posts with images, and profile discovery.
+
+Designed RESTful backend services using Node.js, Express.js, and MongoDB for managing users and posts.
+
+Deployed on Render with optimized API communication and responsive UI.
 🔗 https://linkedin-frontend-xcqs.onrender.com
 
----
+🎥 Zoom Clone — Video Conferencing Platform
 
-### 🎥 Zoom Clone — *Video Conferencing Platform*
-**MERN | WebRTC | Socket.IO**
+MERN | WebRTC | Socket.IO
 
-- Real-time video/audio calling
-- Chat, screen sharing, mic/camera toggle
-- Dynamic rooms & signaling server  
+Developed a real-time video conferencing application using WebRTC for peer-to-peer media streaming.
+
+Implemented multi-user video/audio calling, screen sharing, and live chat using Socket.IO.
+
+Built responsive frontend with React.js and managed backend signaling using Node.js and Express.
+
+Deployed frontend and backend on Render for public accessibility.
 🔗 https://zoom-frontend-tn4g.onrender.com
 
----
+📈 Zerodha Clone — Stock Trading Platform
 
-### 📈 Zerodha Clone — *Stock Trading Platform*
-**MERN Stack**
+MERN Stack | React | Tailwind CSS
 
-- Authentication, watchlist, portfolio management
-- Mock market APIs & clean trading dashboard
-- Built with React & Tailwind  
+Built a stock trading dashboard inspired by Zerodha with authentication and portfolio management features.
+
+Developed modular REST APIs using Node.js and Express to handle user transactions and stock data.
+
+Designed responsive UI using React.js and Tailwind CSS for a clean trading interface.
+
+Deployed on Render ensuring smooth cross-device performance.
 🔗 https://zerodha-frontend-ybnv.onrender.com
-
 ---
 
 ## 📊 GitHub Stats
