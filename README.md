@@ -117,8 +117,6 @@ I enjoy crafting **scalable full-stack solutions**, working across frontend and 
 
 ---
 
----
-
 ## 🚀 Projects
 
 ### 💻 CodeSync Live — *Real-time Collaborative Code Editor*
