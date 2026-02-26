@@ -14,6 +14,9 @@
   <a href="mailto:shivansh.chandra96@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://my-portfolio-ten-gray-46.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=googlechrome&logoColor=white" />
+</a>
 </p>
 
 
@@ -117,6 +120,18 @@ I enjoy crafting **scalable full-stack solutions**, working across frontend and 
 
 ---
 
+
+## 🌐 Personal Portfolio
+
+Want to explore my complete profile, projects, and technical journey in detail?
+
+🚀 **Visit my live portfolio website:**  
+👉 https://my-portfolio-ten-gray-46.vercel.app/
+
+It showcases my featured projects, technical stack, and real-world development experience with a modern SaaS-inspired design.
+
+---
+
 ## 🚀 Projects
 
 ### 💻 CodeSync Live — *Real-time Collaborative Code Editor*
@@ -213,4 +228,7 @@ I enjoy crafting **scalable full-stack solutions**, working across frontend and 
   <a href="mailto:shivansh.chandra96@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://my-portfolio-ten-gray-46.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 </p>
