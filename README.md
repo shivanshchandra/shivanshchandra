@@ -203,16 +203,19 @@ It showcases my featured projects, technical stack, and real-world development e
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshchandra&show_icons=true&theme=tokyonight"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=shivanshchandra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshchandra&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshchandra&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshchandra&layout=compact&theme=tokyonight"/>
-</p>
+---
+
+## 📈 Contribution Graph
+
+[![Shivansh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanshchandra&theme=tokyo-night)](https://github.com/shivanshchandra)
 
 ---
 
