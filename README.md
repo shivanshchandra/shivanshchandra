@@ -101,7 +101,7 @@ I enjoy crafting **scalable full-stack solutions**, working across frontend and 
 ## 💼 Professional Experience
 
 ### 🔹 Curiate Solutions — *Software Developer Intern (Remote)*  
-**Nov 2025 – Present**
+**Nov 2025 – Feb 2026**
 
 - Built and maintained **responsive, pixel-perfect UIs** using **Next.js + TypeScript**, with reusable **React components**
 - Integrated and consumed **REST APIs** for production features (async flows, validation, error handling, state management)
