@@ -195,17 +195,24 @@ It showcases my featured projects, technical stack, and real-world development e
 
 ---
 
-
 ## 📊 GitHub Stats
 
-<p>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=shivanshchandra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
+<table align="center" cellspacing="12">
+  <tr>
+    <td width="60%">
+      <img src="https://github-readme-stats-woad-eight-25.vercel.app/api?username=shivanshchandra&show_icons=true&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&border_radius=15" width="100%" />
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats-woad-eight-25.vercel.app/api/top-langs/?username=shivanshchandra&layout=compact&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=ffffff&hide_border=true&border_radius=15" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshchandra&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shivanshchandra&theme=tokyonight&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true&border_radius=15" width="65%" />
+</div>
 
 ---
 
