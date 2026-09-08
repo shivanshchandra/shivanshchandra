@@ -23,22 +23,26 @@
 
 ## 👨‍💻 About Me
 
-Hi! I’m Shivansh Chandra, a Software Engineer with a background in Electronics & Communication Engineering and hands-on experience building real-world, production-ready applications.
 
-Driven by curiosity and a strong interest in software development, I enjoy building scalable full-stack and backend solutions, working across frontend and backend systems, and turning ideas into functional products. My experience spans internships, client projects, and production applications.
+Hi! I’m **Shivansh Chandra**, a **Software Developer Engineer** with a background in **Electronics & Communication Engineering** and hands-on experience building **real-world, production-ready applications**.
 
-🎓 B.Tech in Electronics & Communication Engineering from Bipin Tripathi Kumaon Institute of Technology, Uttarakhand Technical University
-💻 Experienced in full-stack and backend development using Next.js, React, TypeScript, Node.js, Express.js, Python, and FastAPI
-🗄️ Worked with MongoDB, PostgreSQL, REST APIs, authentication, automation workflows, third-party integrations, and PDF generation
-☁️ Hands-on experience with AWS Lambda and Amazon S3 for backend services, file storage, and cloud-based applications
-🤖 Exploring AI Engineering, including LLM applications, AI agents, and AI-powered products
-🧠 Experienced with AI coding agents such as Claude Code as part of my development workflow
-🔗 Exposure to platforms such as Retell AI, WATI, and LeadSquared for conversational AI, communication workflows, and lead management
-🛍️ Worked with Notion and Shopify for platform integrations and development workflows
-🧩 Continuously strengthening Computer Science fundamentals, with a focus on Data Structures, Algorithms, OOP, and Computer Networks
-🚀 Interested in building reliable, scalable, and practical software products while continuously learning and improving
-💬 Ask me about Next.js, React, TypeScript, Node.js, Python, FastAPI, Express.js, MongoDB, PostgreSQL, REST APIs, AWS, and AI development
-📫 Reach me at shivansh.chandra96@gmail.com
+Driven by curiosity and a strong interest in **software development**, I enjoy building **scalable full-stack and backend solutions**, working across **frontend and backend systems**, and turning ideas into functional products. My experience spans **internships, client projects, and production applications**.
+
+- 🎓 **B.Tech in Electronics & Communication Engineering** from **Bipin Tripathi Kumaon Institute of Technology**, **Uttarakhand Technical University**
+- 💼 Hands-on experience through **software development internships at Curiate Solutions and Skaya**, contributing to **real-world and production applications**
+- 💻 Experienced in **full-stack and backend development** using **Next.js, React, TypeScript, Node.js, Express.js, Python, and FastAPI**
+- 🗄️ Worked with **MongoDB, PostgreSQL, REST APIs, authentication, automation workflows, third-party integrations, and PDF generation**
+- ☁️ Hands-on experience with **AWS Lambda and Amazon S3** for **backend services, file storage, and cloud-based applications**
+- 🤖 Exploring **AI Engineering**, including **LLM applications, AI agents, and AI-powered products**
+- 🧠 Experienced with **AI coding agents such as Claude Code** as part of my **development workflow**
+- 🔗 Exposure to **Retell AI, WATI, and LeadSquared** for **conversational AI, communication workflows, and lead management**
+- 🛍️ Worked with **Notion and Shopify** for **platform integrations and development workflows**
+- 🧩 Continuously strengthening **Computer Science fundamentals**, with a focus on **Data Structures, Algorithms, OOP, and Computer Networks**
+- 🚀 Interested in building **reliable, scalable, and practical software products** while continuously learning and improving
+- 💬 Ask me about **Next.js, React, TypeScript, Node.js, Python, FastAPI, Express.js, MongoDB, PostgreSQL, REST APIs, AWS, and AI development**
+- 📫 Reach me at **[shivansh.chandra96@gmail.com](mailto:shivansh.chandra96@gmail.com)**
+
+---
 
 ---
 
