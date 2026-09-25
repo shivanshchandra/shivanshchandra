@@ -104,13 +104,29 @@ Driven by curiosity and a strong interest in **software development**, I enjoy b
 
 ## 💼 Professional Experience
 
-### 🔹 Curiate Solutions — *Software Developer Intern (Remote)*  
+### 🔹 Skaya.club — *Software Development Engineer I*
+**Apr 2026 – Sep 2026**
+*(Promoted from Software Developer Intern)*
+
+- Reduced the operations team's per-trip workflow to a **single approve/reject click** by designing and building an **end-to-end autonomous Host Platform** — OTP signup (MSG91), auto-generated survey forms, Lambda-based host score calculation, itinerary discovery, and automated trip creation
+- Cut document generation time from **45 minutes to 1–2 minutes** by engineering an **async PDF generation pipeline** on **AWS Lambda**; built 4 PDF types auto-populated from the database — itinerary template, advance payment, balance payment, and additional charges receipts
+- Built a **bulk trip and itinerary creation tool** enabling simultaneous creation of multiple trips and itineraries, cutting per-trip time from **10–15 minutes to near-instant**
+- Implemented **WhatsApp automation workflows** (WATI + AWS Lambda) for booking milestone notifications, itinerary status updates, and payment reminders running **2–5 times daily**; integrated RESTful APIs and MSG91 templates for OTP, welcome, and reminder communications
+- Built a **LeadSquared chat summary sync** pipeline — aggregating WhatsApp bot conversations and pushing structured lead summaries to the CRM via Lambda — enabling the sales team to enter calls with full customer context
+- Automated **Canva marketing creatives** using bulk template generation with CSV-driven data, reducing per-host story creation from **15–20 minutes to a single click**
+- Migrated survey platform from **Tripetto to Tally**, eliminating subscription costs while maintaining full response tracking and automated score calculation via Lambda
+- Replaced email-based signup with **OTP authentication (MSG91)**, improving lead quality by capturing verified phone numbers and reducing fake registrations
+
+---
+
+### 🔹 Curiate Solutions — *Software Developer Intern (Remote)*
 **Nov 2025 – Feb 2026**
 
-- Built and maintained **responsive, pixel-perfect UIs** using **Next.js + TypeScript**, with reusable **React components**
-- Integrated and consumed **REST APIs** for production features (async flows, validation, error handling, state management)
-- Worked on **Shopify (Liquid)** customization for storefront components and dynamic sections
-- Collaborated via **Notion** for task tracking and documentation; supported **testing + production releases**
+- Shipped frontend for **three live production projects** — Wowhouse.in, thedreamery.in, and Skaya.club — independently within tight timelines across React, Next.js, and Shopify stacks
+- Built **Wowhouse.in** frontend pixel-perfect from Figma designs using **React and Next.js**, handling reusable component architecture, responsive layouts, and sprint-based task management via Notion
+- Customized **thedreamery.in** Shopify storefront using **Liquid templating**, implementing dynamic product components and platform-specific integrations for a live e-commerce client
+- Executed a full **frontend revamp of Skaya.club**, rebuilding the public-facing marketing website with improved UI structure, performance, and mobile responsiveness
+- Integrated **REST APIs** into application workflows with validation, asynchronous operations, state management, and error handling
 
 ---
 
