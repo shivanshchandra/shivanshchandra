@@ -138,6 +138,17 @@ It showcases my featured projects, technical stack, and real-world development e
 
 ## 🚀 Projects
 
+### 🤖 DevLens-AI — *AI-Powered Code Health & DevSecOps Platform*
+
+**Next.js | FastAPI | PostgreSQL | Redis | Google Gemini | Docker**
+
+- Built an AI-powered static code analysis platform using FastAPI and Google Gemini (gemini-2.5-flash) that analyzes GitHub repositories, Pull Request diffs, and ZIP uploads for security vulnerabilities, cyclomatic complexity, and architectural issues
+- Engineered a multi-tier analysis pipeline using Python AST parsing for dependency coupling detection, Radon for complexity profiling, regex-based secret leak detection, and Google OSV API for CVE vulnerability scanning
+- Implemented a domain-specific RAG chatbot with 14-intent classification, guardrail filters, and file-level citation engine; built ML risk scoring engine with 20+ feature vectors predicting repository health grades (A–F)
+- Deployed full-stack monorepo using Turborepo — Next.js 16 on Vercel, Dockerized FastAPI on Render with embedded Redis RQ async worker, and PostgreSQL on Supabase
+
+🔗 https://devlens-ai-frontend.vercel.app/
+
 ### 💻 CodeSync Live — *Real-time Collaborative Code Editor*
 
 **MERN Stack | Socket.IO | CodeMirror | JDoodle API**
