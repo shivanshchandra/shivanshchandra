@@ -237,7 +237,7 @@ It showcases my featured projects, technical stack, and real-world development e
 
 ## 📈 Contribution Graph
 
-[![Shivansh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanshchandra&theme=tokyo-night)](https://github.com/shivanshchandra)
+[![Shivansh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanshchandra&theme=tokyo-night&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/shivanshchandra)
 
 ---
 
